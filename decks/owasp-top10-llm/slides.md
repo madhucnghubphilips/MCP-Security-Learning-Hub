@@ -100,10 +100,9 @@ section.image h2 {
 
 # AI Security Learning Notes
 <!--Slide - 1-->
+## OWASP MCP Top 10
 
-OWASP Top 10 LLM Workshop
-
-From AI fundamentals to LLM risks, RAG, MCP, and responsible AI.
+MCP enables AI models and AI agents to securely interact with external tools, APIs, databases, files, SaaS platforms, and enterprise systems. While MCP significantly expands AI capabilities, it also introduces new attack surfaces that traditional application security controls may not adequately address.
 
 ---
 
