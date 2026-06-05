@@ -98,7 +98,6 @@ section.image h2 {
 <!-- _class: lead -->
 ---
 
-# AI Security Learning Notes
 <!--Slide - 1-->
 ## OWASP MCP Top 10
 
