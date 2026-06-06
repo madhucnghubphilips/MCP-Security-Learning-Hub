@@ -63,7 +63,7 @@ Hard-coded credentials, long-lived tokens, and secrets stored in model memory or
 ---
 
 <!-- This is slide MCP03-2 -->
-![bg contain](../../Resources/6MCP01.png)
+![bg contain](../../Resources/MCP01_Part2.png)
 
 ---
 
@@ -80,7 +80,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 ---
 
 
-![bg contain](../../Resources/8MCP02-2.png)
+![bg contain](../../Resources/MCP02_Part2.png)
 
 
 ---
@@ -96,7 +96,7 @@ Tool poisoning occurs when an adversary compromises the tools, plugins, or their
 ---
 
 
-![bg contain](../../Resources/10MCP03.png)
+![bg contain](../../Resources/MCP03_Part2.png)
 
 ---
 
@@ -112,7 +112,7 @@ A compromised dependency can alter agent behavior or introduce execution-level b
 
 ---
 
-![bg contain](../../Resources/12MCP04.png)
+![bg contain](../../Resources/MCP04_Part2.png)
 
 ---
 
