@@ -73,7 +73,6 @@ Hard-coded credentials, long-lived tokens, and secrets stored in model memory or
 Temporary or loosely defined permissions within MCP servers often expand over time, granting agents excessive capabilities. 
 An attacker exploiting weak scope enforcement can perform unintended actions such as repository modification, system control, or data exfiltration.
 
----
 
 
 ---
@@ -82,7 +81,6 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 
 Tool poisoning occurs when an adversary compromises the tools, plugins, or their outputs that an AI model depends on, injecting malicious, misleading, or biased context to manipulate the model's behavior.
 
----
 
 
 ---
@@ -92,7 +90,7 @@ Tool poisoning occurs when an adversary compromises the tools, plugins, or their
 
 A compromised dependency can alter agent behavior or introduce execution-level backdoors.
 
----
+
 
 
 ---
@@ -103,7 +101,6 @@ A compromised dependency can alter agent behavior or introduce execution-level b
 Command injection occurs when an AI agent constructs and executes system commands, shell scripts, API calls, or code snippets using untrusted input whether from user prompts, retrieved context, or third-party data sources, without proper validation or sanitization.
 
 
----
 
 ---
 <!-- This is slide MCP06 -->
@@ -115,7 +112,6 @@ The Model Context Protocol enables agents to retrieve complex context that can a
 Subversion occurs when malicious instructions embedded in context hijack the “Intent Flow,” steering the agent away from the user’s original goal toward an attacker’s objective.
 
 
----
 
 
 ---
@@ -128,7 +124,7 @@ Inadequate authentication and authorization occur when MCP servers, tools, or ag
 Since MCP ecosystems often involve multiple agents, users, and services exchanging data and executing actions, weak or missing identity validation exposes critical attack paths.
 
 
----
+
 
 
 ---
@@ -140,7 +136,7 @@ Limited telemetry from MCP servers and agents impedes investigation and incident
 
 Maintain detailed logs of tool invocations, context changes, and user-agent interactions with immutable audit trails.
 
----
+
 
 ---
 <!-- This is slide MCP09 -->
@@ -151,7 +147,6 @@ Maintain detailed logs of tool invocations, context changes, and user-agent inte
 
 Much like Shadow IT, these rogue MCP nodes are often spun up by developers, research teams, or data scientists for experimentation, testing, or convenience, frequently using default credentials, permissive configurations, or unsecured APIs.
 
----
 
 
 ---
@@ -162,6 +157,7 @@ Much like Shadow IT, these rogue MCP nodes are often spun up by developers, rese
 In the Model Context Protocol (MCP), “context” represents the working memory that stores prompts, retrieved data, and intermediate outputs across agents or sessions. 
 
 When context windows are shared, persistent, or insufficiently scoped, sensitive information from one task, user, or agent may be exposed to another. This phenomenon known as context over-sharing turns convenience into a liability.
+
 ---
 
 
