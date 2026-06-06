@@ -12,7 +12,6 @@ size: 16:9
 The OWASP Model Context Protocol (MCP) Top 10 is a security framework that highlights the most critical risks facing MCP-enabled AI applications and agents, helping organizations build safer, more secure, and trustworthy AI systems.
 
 ---
----
 
 <!-- This is slide MCP01-1 -->
 ![bg contain](../../Resources/1_What_is_MCP.png)
@@ -217,7 +216,7 @@ When context windows are shared, persistent, or insufficiently scoped, sensitive
 
 ![bg contain](../../Resources/24MCP10.png)
 
----
+
 
 
 
