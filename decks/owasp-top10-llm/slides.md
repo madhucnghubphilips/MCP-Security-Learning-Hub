@@ -12,15 +12,14 @@ size: 16:9
 The OWASP Model Context Protocol (MCP) Top 10 is a security framework that highlights the most critical risks facing MCP-enabled AI applications and agents, helping organizations build safer, more secure, and trustworthy AI systems.
 
 ---
----
 
 <!-- This is slide MCP01-1 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/1_What_is_MCP.png)
 
 ---
 
 # MCP Server for Application Security Testing (AST)
-
 MCP (Model Context Protocol) connects AI Security Agents with Application Security tools such as SAST, DAST, SCA, and API Security. 
 
 It enables automated scan orchestration, centralized findings, and risk-based remediation through a single protocol. MCP improves efficiency with secure authentication, audit logging, and standardized data exchange.
@@ -28,6 +27,7 @@ It enables automated scan orchestration, centralized findings, and risk-based re
 ---
 
 <!-- This is slide MCP01-2 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/2_MCP_in_Security.png)
 
 ---
@@ -44,14 +44,24 @@ User → AI Agent → MCP Server → Tool Connectors → External Tools → Resu
 ---
 
 <!-- This is slide MCP02-1 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/3_How_MCP_Works.png)
 
 ---
 
+<!-- _class: image -->
+![bg contain](../../Resources/MCP_RealTime_Example.png)
+
+---
+
 <!-- This is slide MCP02-2 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/4_MCP_Top10.png)
 
 ---
+
+
+
 # MCP01 - Token Mismanagement & Secret Exposure
 
 Hard-coded credentials, long-lived tokens, and secrets stored in model memory or protocol logs can expose sensitive environments to unauthorized access. Attackers may retrieve these tokens through prompt injection, compromised context, or debug traces, leading to full compromise of connected systems.
@@ -63,7 +73,7 @@ Hard-coded credentials, long-lived tokens, and secrets stored in model memory or
 ---
 
 <!-- This is slide MCP03-2 -->
-![bg contain](../../Resources/6MCP01.png)
+![bg contain](../../Resources/MCP01_Part2.png)
 
 ---
 
@@ -80,7 +90,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 ---
 
 
-![bg contain](../../Resources/8MCP02-2.png)
+![bg contain](../../Resources/MCP02_Part2.png)
 
 
 ---
@@ -96,7 +106,7 @@ Tool poisoning occurs when an adversary compromises the tools, plugins, or their
 ---
 
 
-![bg contain](../../Resources/10MCP03.png)
+![bg contain](../../Resources/MCP03_Part2.png)
 
 ---
 
@@ -112,7 +122,7 @@ A compromised dependency can alter agent behavior or introduce execution-level b
 
 ---
 
-![bg contain](../../Resources/12MCP04.png)
+![bg contain](../../Resources/MCP04_Part2.png)
 
 ---
 
@@ -217,7 +227,7 @@ When context windows are shared, persistent, or insufficiently scoped, sensitive
 
 ![bg contain](../../Resources/24MCP10.png)
 
----
+
 
 
 
