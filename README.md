@@ -56,6 +56,7 @@ User → AI Agent → MCP Server → Tool Connectors → External Tools → Resu
 
 
 ---
+---
 
 
 # MCP02 - Privilege Escalation via Scope Creep
@@ -71,7 +72,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 <img src="https://github.com/madhucnghubphilips/MCP-Security-Learning-Hub/blob/main/Resources/8MCP02-2.png" />
 
 
-
+---
 ---
 <!-- This is slide MCP03 -->
 # MCP03 - Tool Poisoning
@@ -87,7 +88,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 <img src="https://github.com/madhucnghubphilips/MCP-Security-Learning-Hub/blob/main/Resources/10MCP03.png" />
 
 ---
-
+---
 <!-- This is slide MCP04 -->
 
 # MCP04 - Software Supply Chain Attacks & Dependency Tampering
@@ -102,7 +103,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 
 
 ---
-
+---
 <!-- This is slide MCP05 -->
 
 # MCP05 - Command Injection & Execution
@@ -117,7 +118,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 <img src="https://github.com/madhucnghubphilips/MCP-Security-Learning-Hub/blob/main/Resources/14MCP05.png" />
 
 ---
-
+---
 <!-- This is slide MCP06 -->
 
 # MCP06 - Intent Flow Subversion
@@ -135,6 +136,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 ![bg contain](../../Resources/16MCP06.png)
 
 ---
+---
 <!-- This is slide MCP07 -->
 
 # MCP07 - Insufficient Authentication & Authorization
@@ -151,7 +153,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 
 
 ---
-
+---
 
 
 
@@ -169,7 +171,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 ---
 <img src="https://github.com/madhucnghubphilips/MCP-Security-Learning-Hub/blob/main/Resources/20MCP08.png" />
 
-
+---
 ---
 <!-- This is slide MCP09 -->
 
@@ -186,6 +188,7 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 ---
 <img src="https://github.com/madhucnghubphilips/MCP-Security-Learning-Hub/blob/main/Resources/22MCP09.png" />
 
+---
 ---
 <!-- This is slide MCP10 -->
 
