@@ -26,6 +26,14 @@ It enables automated scan orchestration, centralized findings, and risk-based re
 
 ---
 
+## How MCP (Model Context Protocol) Works
+
+MCP acts as a universal communication layer between AI agents and external tools, enabling secure, standardized, and automated interactions. The AI agent sends requests through the MCP Server, which authenticates, routes, and orchestrates the appropriate tools, then normalizes the results into a consistent format. This allows AI systems to seamlessly leverage multiple tools and services through a single protocol without requiring custom integrations.
+
+# User → AI Agent → MCP Server → Tool Connectors → External Tools → Results
+
+---
+
 <!-- This is slide MCP01-2 -->
 ![bg contain](../../Resources/2_MCP_in_Security.png)
 
