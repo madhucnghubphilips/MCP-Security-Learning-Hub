@@ -14,6 +14,7 @@ The OWASP Model Context Protocol (MCP) Top 10 is a security framework that highl
 ---
 
 <!-- This is slide MCP01-1 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/1_What_is_MCP.png)
 
 ---
@@ -27,6 +28,7 @@ It enables automated scan orchestration, centralized findings, and risk-based re
 ---
 
 <!-- This is slide MCP01-2 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/2_MCP_in_Security.png)
 
 ---
@@ -43,11 +45,13 @@ User → AI Agent → MCP Server → Tool Connectors → External Tools → Resu
 ---
 
 <!-- This is slide MCP02-1 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/3_How_MCP_Works.png)
 
 ---
 
 <!-- This is slide MCP02-2 -->
+<!-- _class: image -->
 ![bg contain](../../Resources/4_MCP_Top10.png)
 
 ---
