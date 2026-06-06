@@ -1,11 +1,3 @@
----
-marp: true
-theme: default
-paginate: true
-html: true
-size: 16:9
----
-
 <!-- This is slide 1 -->
 # OWASP MCP Top 10
 
