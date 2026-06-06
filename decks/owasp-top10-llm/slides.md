@@ -194,7 +194,12 @@ Maintain detailed logs of tool invocations, context changes, and user-agent inte
 
 Much like Shadow IT, these rogue MCP nodes are often spun up by developers, research teams, or data scientists for experimentation, testing, or convenience, frequently using default credentials, permissive configurations, or unsecured APIs.
 
+---
+![bg contain](../../Resources/21MCP09.png)
 
+---
+
+![bg contain](../../Resources/22MCP09.png)
 
 ---
 <!-- This is slide MCP10 -->
@@ -206,6 +211,14 @@ In the Model Context Protocol (MCP), “context” represents the working memory
 When context windows are shared, persistent, or insufficiently scoped, sensitive information from one task, user, or agent may be exposed to another. This phenomenon known as context over-sharing turns convenience into a liability.
 
 ---
+![bg contain](../../Resources/23MCP10.png)
+
+---
+
+![bg contain](../../Resources/24MCP10.png)
+
+---
+
 
 
 
