@@ -157,11 +157,18 @@ Inadequate authentication and authorization occur when MCP servers, tools, or ag
 
 Since MCP ecosystems often involve multiple agents, users, and services exchanging data and executing actions, weak or missing identity validation exposes critical attack paths.
 
-
-
-
+---
+![bg contain](../../Resources/17MCP07.png)
 
 ---
+
+![bg contain](../../Resources/18MCP07.png)
+
+---
+
+
+
+
 <!-- This is slide MCP08 -->
 
 # MCP08 - Lack of Audit and Telemetry
@@ -170,6 +177,12 @@ Limited telemetry from MCP servers and agents impedes investigation and incident
 
 Maintain detailed logs of tool invocations, context changes, and user-agent interactions with immutable audit trails.
 
+---
+![bg contain](../../Resources/19MCP08.png)
+
+---
+
+![bg contain](../../Resources/20MCP08.png)
 
 
 ---
