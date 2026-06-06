@@ -89,9 +89,17 @@ An attacker exploiting weak scope enforcement can perform unintended actions suc
 
 Tool poisoning occurs when an adversary compromises the tools, plugins, or their outputs that an AI model depends on, injecting malicious, misleading, or biased context to manipulate the model's behavior.
 
+---
 
+![bg contain](../../Resources/9MCP03.png)
 
 ---
+
+
+![bg contain](../../Resources/10MCP03.png)
+
+---
+
 <!-- This is slide MCP04 -->
 
 # MCP04 - Software Supply Chain Attacks & Dependency Tampering
