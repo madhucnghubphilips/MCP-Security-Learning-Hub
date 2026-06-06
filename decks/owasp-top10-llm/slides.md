@@ -66,13 +66,21 @@ Hard-coded credentials, long-lived tokens, and secrets stored in model memory or
 ![bg contain](../../Resources/6MCP01.png)
 
 ---
-<!-- This is slide MCP02 -->
+
 
 # MCP02 - Privilege Escalation via Scope Creep
 
 Temporary or loosely defined permissions within MCP servers often expand over time, granting agents excessive capabilities. 
 An attacker exploiting weak scope enforcement can perform unintended actions such as repository modification, system control, or data exfiltration.
 
+--- 
+
+![bg contain](../../Resources/7MCP02-1.png)
+
+---
+
+
+![bg contain](../../Resources/8MCP02-2.png)
 
 
 ---
