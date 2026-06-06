@@ -48,17 +48,15 @@ User → AI Agent → MCP Server → Tool Connectors → External Tools → Resu
 
 ---
 
+<!-- This is slide MCP02-2 -->
+![bg contain](../../Resources/4_MCP_Top10.png)
+
+---
 # MCP01 - Token Mismanagement & Secret Exposure
 
 Hard-coded credentials, long-lived tokens, and secrets stored in model memory or protocol logs can expose sensitive environments to unauthorized access. Attackers may retrieve these tokens through prompt injection, compromised context, or debug traces, leading to full compromise of connected systems.
 
 ---
-
-<!-- This is slide MCP02-2 -->
-![bg contain](../../Resources/4_MCP_Top10.png)
-
----
-
 <!-- This is slide MCP03-1 -->
 ![bg contain](../../Resources/5MCP01.png)
 
