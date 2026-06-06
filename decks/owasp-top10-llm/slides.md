@@ -20,7 +20,6 @@ The OWASP Model Context Protocol (MCP) Top 10 is a security framework that highl
 ---
 
 # MCP Server for Application Security Testing (AST)
-
 MCP (Model Context Protocol) connects AI Security Agents with Application Security tools such as SAST, DAST, SCA, and API Security. 
 
 It enables automated scan orchestration, centralized findings, and risk-based remediation through a single protocol. MCP improves efficiency with secure authentication, audit logging, and standardized data exchange.
@@ -50,16 +49,17 @@ User → AI Agent → MCP Server → Tool Connectors → External Tools → Resu
 
 ---
 
+<!-- _class: image -->
+![bg contain](../../Resources/MCP_RealTime_Example.png)
+
+---
+
 <!-- This is slide MCP02-2 -->
 <!-- _class: image -->
 ![bg contain](../../Resources/4_MCP_Top10.png)
 
 ---
 
-<!-- _class: image -->
-![bg contain](../../Resources/MCP_RealTime_Example.png)
-
----
 
 
 # MCP01 - Token Mismanagement & Secret Exposure
