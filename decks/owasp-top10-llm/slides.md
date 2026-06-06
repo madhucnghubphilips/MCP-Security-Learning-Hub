@@ -106,19 +106,32 @@ Tool poisoning occurs when an adversary compromises the tools, plugins, or their
 
 A compromised dependency can alter agent behavior or introduce execution-level backdoors.
 
+---
 
-
+![bg contain](../../Resources/11MCP04.png)
 
 ---
+
+![bg contain](../../Resources/12MCP04.png)
+
+---
+
 <!-- This is slide MCP05 -->
 
 # MCP05 - Command Injection & Execution
 
 Command injection occurs when an AI agent constructs and executes system commands, shell scripts, API calls, or code snippets using untrusted input whether from user prompts, retrieved context, or third-party data sources, without proper validation or sanitization.
 
+---
 
+![bg contain](../../Resources/13MCP05.png)
 
 ---
+
+![bg contain](../../Resources/14MCP05.png)
+
+---
+
 <!-- This is slide MCP06 -->
 
 # MCP06 - Intent Flow Subversion
@@ -127,8 +140,13 @@ The Model Context Protocol enables agents to retrieve complex context that can a
 
 Subversion occurs when malicious instructions embedded in context hijack the “Intent Flow,” steering the agent away from the user’s original goal toward an attacker’s objective.
 
+---
 
+![bg contain](../../Resources/15MCP06.png)
 
+---
+
+![bg contain](../../Resources/16MCP06.png)
 
 ---
 <!-- This is slide MCP07 -->
